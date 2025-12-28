@@ -5,7 +5,7 @@ import Parrot from "../videos/video4.mp4";
 import Duck from "../videos/video5.mp4";
 import Lion from "../videos/video6.mp4";
 
-export default function ImageInserting() {
+export default function ImageInstering() {
   return (
     <>
       <h1 style={{ textAlign: "center" }}>Animal Videos</h1>
