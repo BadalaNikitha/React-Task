@@ -1,14 +1,11 @@
-import ImageInstering from "./Component/imageinstering"
-
-
+import ImageInserting from "./Component/ImageInserting";
 
 function App() {
-  
   return (
     <>
-    <ImageInstering/>
+      <ImageInserting />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
